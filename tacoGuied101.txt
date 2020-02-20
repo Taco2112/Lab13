@@ -1,0 +1,19 @@
+Lab 13 (Guide /Qik/ Lazy Notes)
+______________________________________________________
+Assignment Purpose:
+
+This assignment is meant to demonstrate how to use interfaces, abstract classes and concrete classes in one program.
+______________________________________________________
+In this lab I have to do the following ==v
+------------------------------------------------------
+- You need to create a program that
+that shows knowledge about interfaces, abstract classes and concrete classes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+>>>>>SPECS BELOW>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A1*- has one interface,
+B2**-one or more abstract classes and three or more concrete classes
+          !DO NOTE! - it is not necessary to store actual information.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The High School program is shown in the Lab13 sample folder. It is the same program that was used in the chapter to explain abstract classes.
+THIS LAB HAS TO BE SIMILAR TO THAT
