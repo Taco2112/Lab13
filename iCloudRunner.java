@@ -7,7 +7,7 @@ public class iCloudRunner
       		ITUNES iPhone5s = new iPhone();
 
 
-      		System.out.println("TEST 9TH GRADE TOM");
+      		System.out.println("PLUGED IN IPOD");
       		iPodClassic5thgen.isSyncingIPOD();
       		iPodClassic5thgen.EjectIPOD();
       		iPodClassic5thgen.newiPod();
@@ -18,7 +18,7 @@ public class iCloudRunner
       		System.out.println();
 
 
-          System.out.println("TEST 10TH GRADE SUE");
+          System.out.println("PLUGED IN IPAD");
               		iPadPro1stgen.isSyncingIPAD();
               		iPadPro1stgen.EjectIPAD();
               		iPadPro1stgen.newiPad();
@@ -28,7 +28,7 @@ public class iCloudRunner
 
           System.out.println();
 
-         System.out.println("TEST 11TH GRADE BOB");
+         System.out.println("PLUGED IN IPHONE");
               		iPhone5s.isSyncingIPHONE();
               		iPhone5s.EjectIPHONE();
               		iPhone5s.newiPhone();
